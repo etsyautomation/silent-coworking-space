@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (planName === 'Long-Term Plan') {
           messageTextarea.value = `Hello Silent Coworking Space! I would like to get custom pricing for a team/group or long-term plan. Please share more details.`;
         } else {
-          messageTextarea.value = `Hello Silent Coworking Space! I am interested in booking a free visit and signing up for the "${planName}". Please let me know the availability.`;
+          messageTextarea.value = `Hello Silent Coworking Space! I am interested in booking a 2-day free demo and signing up for the "${planName}". Please let me know the availability.`;
         }
       }
 
